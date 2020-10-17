@@ -13,3 +13,5 @@
 #12. git push origin -d newbranch - delete global branch
 #13. git branch -d newbranch - delete local branch
 #14. git merge newbranch - merge curent with another one branch
+#15. rm -rf DirectoryName - delete a directory
+#16. mkdir DirName - create directory
