@@ -1,0 +1,15 @@
+#1. git init - inititate an git environment
+#2. git status - show all file statuses
+#3. git config --global user.name "kyrylpopyk" - make name connection
+#4. git config --global user.email "kyrylpopyk@gmail.com" - make email connection
+#5. git remote add origin https://... - connect local and global repositories
+#6. git add . - say that all changes is ready to commit
+#7. git commit -m "message" - commit changes with optional massage
+#8. git push -u origin master - push changes as master branche
+#9. git pull - pull changes from global to local repository
+#9. git branch newbrunch - create new branch
+#10. git checkout newbrunch - go to anothe branch
+#11. git branch --all - show all branches
+#12. git push origin -d newbranch - delete global branch
+#13. git branch -d newbranch - delete local branch
+#14. git merge newbranch - merge curent with another one branch
