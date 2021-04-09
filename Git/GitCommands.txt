@@ -15,3 +15,5 @@
 #14. git merge newbranch - merge curent with another one branch
 #15. rm -rf DirectoryName - delete a directory
 #16. mkdir DirName - create directory
+#17. git reset --hard [commit code like 55c09a6] - restore commit
+#18. git push --force origin master - accept restore commit
