@@ -1,0 +1,1 @@
+npm satart - satrt appl9ication you have to be inside the project on comand pannel node js
